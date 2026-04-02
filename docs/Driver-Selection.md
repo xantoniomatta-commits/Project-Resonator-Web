@@ -21,7 +21,7 @@ In IEMs this is often done in a similar fashion but from electricity (DC) to mov
 Currently, in the IEMs sphere, the most common types of drivers are:
 
 1. Dynamic Drivers (DD)
-2. Balenced Armature (BA)
+2. Balanced Armature (BA)
 3. Electrostatic Drivers (EST)
 4. Plannar Drivers (PD)
 
@@ -73,12 +73,12 @@ iems to often produce a large, and 'thumpy' bass sound -- though they can produc
 As previously stated, DD drivers often excel at having excellent cost-to-effective ratios as they produce
 a great bass response which allows music to often have more weight and impact when listened to.
 
-### Balenced Armature Drivers (BA)
+### Balanced Armature Drivers (BA)
 
 Balanced Armature Drivers are very similar to DD drivers as talked about previously, but with the major difference coming at the point where the voice coil would be in a traditional DD driver. Unlike a Dynamic
 Driver, a BA driver contains a centrally 'balanced' rod also called an 'armature' hence in the name balanced armature, this rod is balanced exactly on the ring of the round magnet, and it is placed exactly in the middle of the magnetic field, as to create a net force of zero on the armature, thus perfectly balancing it.
 
-![A cross-section of a Balenced Armature Driver](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmynewmicrophone.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fmnm_Balanced_Armature_Type_2_With_Labels-1.jpg&f=1&nofb=1&ipt=a16b9f0e807033f9a917c7297923f0f6a5840018439d0da2a7fd72a538789f03)
+![A cross-section of a Balanced Armature Driver](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmynewmicrophone.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fmnm_Balanced_Armature_Type_2_With_Labels-1.jpg&f=1&nofb=1&ipt=a16b9f0e807033f9a917c7297923f0f6a5840018439d0da2a7fd72a538789f03)
 
 When electricity is sent to the metal coil wrapped around the armature, it causes the magnet's electromagnetic field to interact with the one created by the coil, which pushes or pulls the armature in reference based on the audion current sent to the driver, this armature then intern pushes and pulls a diaphragm, similar to the membrane in aDD driver which moves the air around the entrance of the spout of the driver which created the
 sound you hear.
